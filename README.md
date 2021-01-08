@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 
 
 -->
-<img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/photo.jpg">
+<img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/WhatsApp Image 2020-08-25 at 18.43.05.jpeg">
