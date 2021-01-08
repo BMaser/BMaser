@@ -1,9 +1,9 @@
-### Hi there 👋
 
-<!--
+
 **BMaser/BMaser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!-- 
 Here are some ideas to get you started:
+### Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/photo.jpg">
+- ⚡ Fun fact: ... 
 
 -->
+<img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/photo.jpg">
