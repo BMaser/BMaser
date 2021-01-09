@@ -3,6 +3,12 @@
 
 <img src="https://github.com/BMaser/Demo/blob/main/gif.gif?raw=true">
 
+- 🔭 Currently, I am working on a new project to discriminate and identify different sensors based on a deep learning approach.
+
+Also recently, I did a research in the computer vision field, I design and implement a solution to detect the image origin of a given finger vein image using statistical methods with a machine learning approach.
+
+
+
 <!-- 
 **BMaser/BMaser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
