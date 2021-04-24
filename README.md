@@ -30,10 +30,10 @@ I am eager to work in computer vision and machine learning projects to develop n
 <b>View my:</b>
 <div>
     
-<p><b style="color:red">New Paper:</b> <a href="https://scholar.google.at/citations?user=guMbN5oAAAAJ&hl=de">Google Scholar</a> 
-<p><b style="color:red">New Paper:</b> <a href="https://www.linkedin.com/in/bobak-babak-maser/">LinkedIn</a> 
-<p><b style="color:red">New Paper:</b> <a href="https://www.semanticscholar.org/author/Babak-Maser/145318803">Semantic Scholar</a>
-<p><b style="color:red">New Paper:</b> <a href="https://dblp.org/pid/231/3417.html">dblp</a> 
+<p> <a href="https://scholar.google.at/citations?user=guMbN5oAAAAJ&hl=de" ><b>Google Scholar  </b></a> 
+<p> <a href="https://www.linkedin.com/in/bobak-babak-maser/"              ><b>LinkedIn        </b></a> 
+<p> <a href="https://www.semanticscholar.org/author/Babak-Maser/145318803"><b>Semantic Scholar</b></a>
+<p> <a href="https://dblp.org/pid/231/3417.html"                          ><b>dblp            </b></a> 
     
 </div>
 
