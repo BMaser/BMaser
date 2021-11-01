@@ -37,7 +37,7 @@ Apart from skills and knowledge, I am cordially enthusiastic to devote my profes
 
 <div class="new_paper">
     <p><b style="color:red">New Paper:</b> <a href="https://arxiv.org/abs/2102.03992">IDENTIFYING THE ORIGIN OF FINGER VEIN SAMPLES USING TEXTURE DESCRIPTORS (preprint arXiv)</a></p>
- <p> <i> Babak Maser, Andreas Uhl </i></p>
+
 </div>
 
 
