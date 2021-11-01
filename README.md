@@ -33,7 +33,6 @@ Apart from skills and knowledge, I am cordially enthusiastic to devote my profes
 <div class="new_paper">
     <p><b style="color:red">New Paper:</b> <a href="https://arxiv.org/abs/2103.01632">Using CNNs to Identify the Origin of Finger Vein Image (preprint arXiv)</a>
     <p>IEEE International Workshop on Biometrics and Forensics (IWBF) 2021 , Rome, Italy.</p>
-     <p><i> Babak Maser, Andreas Uhl </i></p>
 
 <div class="new_paper">
     <p><b style="color:red">New Paper:</b> <a href="https://arxiv.org/abs/2102.03992">IDENTIFYING THE ORIGIN OF FINGER VEIN SAMPLES USING TEXTURE DESCRIPTORS (preprint arXiv)</a></p>
