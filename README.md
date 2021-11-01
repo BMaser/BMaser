@@ -8,9 +8,23 @@
 
 <img src="https://github.com/BMaser/Demo/blob/main/gif.gif?raw=true">
 
-- I am currently a member of The Multimedia Signal Processing and Security Lab (WaveLab), where I research and develop computer vision applications in the field of image forensics, using a deep-learning and classical approach. I've worked on several Image Forensics projects; As a result, I was able to contribute to seven scientific articles. Besides academic research, I've actively worked to develop my advanced deep learning and machine learning skills.
+-
 
-I am eager to work in computer vision and machine learning projects to develop new skills. In my profile, you can see a list of ML projects that I completed. My LinkedIn profile contains additional material, including my CV. My personal homepage is at https://bmaser.github.io/
+After completing my master's program in Computer Science, I worked for about five years as a product manager, system analyst, and web programmer. Due to these experiences, I gained a good understanding of the entire software product's life cycle as a software engineer.
+
+I have concentrated on learning and researching Computer Vision and Machine Learning for the last five years, contributing to a few research projects. As a result, my colleagues and I published seven research papers.   
+
+My research projects focused on:
+    
+1.	Residual-based texture classification using classical Machine Learning. 
+2.	Classification of texture images based on their unique image statistical properties using Classical Machine Learning and Deep Learning approaches.
+3.	Effect of media compression on texture classification. 
+    
+I got good experience using modern Machine Learning methods, and classical computer vision approaches to solve challenging problems in computer vision. Also, I gained good confidence in using Python, Keras 2.X, Tensorflow 2, OpenCV-python, Scikit-learn, Scikit-image.
+Apart from skills and knowledge, I am cordially enthusiastic to devote my professional career where I can be involved in solutions that combine modern machine learning approaches with Computer Vision systems.  
+
+
+<p> <a href="https://bmaser.github.io/" ><b> Homepage  </b></a>
 
 
 
