@@ -21,7 +21,9 @@ My research projects focused on:
 3.	Effect of media compression on texture classification. 
     
 I got good experience using modern Machine Learning methods, and classical computer vision approaches to solve challenging problems in computer vision. Also, I gained good confidence in using Python, Keras 2.X, Tensorflow 2, OpenCV-python, Scikit-learn, Scikit-image.
-Apart from skills and knowledge, I am cordially enthusiastic to devote my professional career where I can be involved in solutions that combine modern machine learning approaches with Computer Vision systems.  
+Apart from skills and knowledge, I am cordially enthusiastic to devote my professional career where I can be involved in solutions that combine modern machine learning approaches with Computer Vision systems. 
+    
+I am always open to work on a new research topic. If you know python and also familiar with computer vision please email me.    
 
 
 <p> <a href="https://bmaser.github.io/" ><b> Homepage  </b></a>
