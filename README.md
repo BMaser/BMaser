@@ -1,4 +1,4 @@
-</style>
+<!-- </style>
 </head>
 <body>
 
@@ -54,20 +54,4 @@ I am always open to work on a new research topic. If you know python and also fa
 
 
 </body>
-</html>
-
-<!-- 
-**BMaser/BMaser** is a âœ¨ _special_ âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-### Hi there ðŸ‘‹
-
-- ðŸ”­ Iâ€™m currently working on ...
-- ðŸŒ± Iâ€™m currently learning ...
-- ðŸ‘¯ Iâ€™m looking to collaborate on ...
-- ðŸ¤” Iâ€™m looking for help with ...
-- ðŸ’¬ Ask me about ...
-- ðŸ“« How to reach me: ...
-- ðŸ˜„ Pronouns: ...
-- âš¡ Fun fact: ... 
--->
-
+</html> -->
